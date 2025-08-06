@@ -63,7 +63,7 @@ The BadRabbit actors executed a multi-phase attack with emphasis on social engin
 
 - **Confidentiality** was less affected, although evidence shows the harvesting of credentials using **Mimiktaz**, there is no confirmed evidence of large-scale data exfiltration. However, internal credentials could have been potentially reused in future operations.
 
-- **Integrity**suffered a catastrophic blow as system files were encrypted and tampered. Also unauthorized changes were made to bootloaders and schedulers.
+- **Integrity** suffered a catastrophic blow as system files were encrypted and tampered. Also unauthorized changes were made to bootloaders and schedulers.
 
 - **Availability** was compromised as organizations faced temporary outages due to device going into locked state by forced reboot, displaying a ransom note.
 
